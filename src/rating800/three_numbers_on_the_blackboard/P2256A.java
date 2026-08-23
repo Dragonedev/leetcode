@@ -1,9 +1,9 @@
-package three_numbers_on_the_blackboard;
+package rating800.three_numbers_on_the_blackboard;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class A {
+public class P2256A {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
@@ -25,7 +25,7 @@ public class A {
 			}
 			System.out.println(ans);
 		}
-
+		sc.close();
 	}
 
 }
